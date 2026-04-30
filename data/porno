@@ -24,7 +24,7 @@ domain:xnxx.com
 domain:xv-ru.com
 domain:xvideos-cdn.com
 domain:xvideos.com
-domain:chaturbate.com
+regexp:^.*\.chaturbate\.com$
 domain:thumb.live.mmcdn.com
 domain:web.static.mmcdn.com
 domain:nwr.mmcdn.com
