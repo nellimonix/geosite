@@ -1,7 +1,3 @@
-# Google AI Studio
-domain:alkalimakersuite-pa.clients6.google.com
-domain:webchannel-alkalimakersuite-pa.clients6.google.com
-
 # Canva
 domain:apps.canva-apps.com
 domain:canva.com
@@ -239,3 +235,29 @@ domain:tags.pollo.ai
 domain:track.pollo.ai
 domain:videocdn.pollo.ai
 domain:www.pollo.ai
+
+# Gemini
+domain:aistudio.google.com
+domain:alkalimakersuite-pa.clients6.google.com
+domain:alkalimining-pa.googleapis.com
+domain:gemini.google.com
+domain:generativelanguage.googleapis.com
+domain:mtalk.google.com
+domain:people-pa.clients6.google.com
+domain:proactivebackend-pa.googleapis.com
+domain:push.clients6.google.com
+domain:waa-pa.clients6.google.com
+domain:webchannel-alkalimakersuite-pa.clients6.google.com
+domain:ai.google.dev
+domain:aistudio.google.com
+domain:alkalicore-pa.clients6.google.com
+domain:alkalimakersuite-pa.clients6.google.com
+domain:bard.google.com
+domain:deepmind.com
+domain:deepmind.google
+domain:geller-pa.googleapis.com
+domain:gemini.google.com
+domain:generativeai.google
+domain:generativelanguage.googleapis.com
+domain:makersuite.google.com
+domain:proactivebackend-pa.googleapis.com
